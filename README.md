@@ -3,7 +3,7 @@
 <p align="center">
     <b>Welcome to my page!</b><br><br>
     <i>
-        I'm Mohamed adel.<br>
+        I'm Mohamed Adel Elewa.<br>
         My goal is to be the best in my field.      
     </i>
     <br>
