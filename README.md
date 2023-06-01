@@ -12,23 +12,24 @@
     </a>   
 </p>
 ### Languages
-[![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/wervlad)
-[![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)](https://github.com/wervlad)
-[![Java](https://img.shields.io/badge/java-black?style=for-the-badge&logo=openjdk)](https://github.com/wervlad)
-[![C++](https://img.shields.io/badge/c++-black?style=for-the-badge&logo=cplusplus)](https://github.com/wervlad)
-[![C](https://img.shields.io/badge/c-black?style=for-the-badge&logo=c)](https://github.com/wervlad)
-[![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql)](https://github.com/wervlad)
+
+[![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)]
+[![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)]
+[![Java](https://img.shields.io/badge/java-black?style=for-the-badge&logo=openjdk)]
+[![C++](https://img.shields.io/badge/c++-black?style=for-the-badge&logo=cplusplus)]
+[![C](https://img.shields.io/badge/c-black?style=for-the-badge&logo=c)]
+[![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql)]
 
 ### ML/DL
-[![NumPy](https://img.shields.io/badge/numpy-black?style=for-the-badge&logo=numpy)](https://github.com/wervlad)
+[![NumPy](https://img.shields.io/badge/numpy-black?style=for-the-badge&logo=numpy)]
 ### Technologies & Frameworks
-[![React](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react)](https://github.com/wervlad)
-[![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)](https://hub.docker.com/u/wervlad)
-[![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)](https://hub.docker.com/u/wervlad)
+[![React](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react)]
+[![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)]
+[![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)]
 
 ### OS
-[![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)](https://github.com/wervlad)
-[![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows)](https://github.com/wervlad)
+[![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)]
+[![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows)]
 
 <!--
 - 🔭 I’m currently working on ...
