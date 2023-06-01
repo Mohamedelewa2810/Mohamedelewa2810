@@ -4,13 +4,12 @@
     <b>Welcome to my page!</b><br><br>
     <i>
         I'm Mohamed adel.<br>
-        My goal is to be the best in my field.<br>
-        
-    </i><br>
+        My goal is to be the best in my field.      
+    </i>
+    <br>
     <a href="https://www.linkedin.com/in/mohamed-adel2810/">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
-    </a>
-   
+    </a>   
 </p>
 
 
