@@ -23,17 +23,29 @@
 [![C](https://img.shields.io/badge/C-black?style=for-the-badge&logo=C)]()
 [![Java](https://img.shields.io/badge/Java-black?style=for-the-badge&logo=openjdk)]()
 
+[![Sqlserver](https://img.shields.io/badge/Microsoft%20SQL%20Server-black?style=for-the-badge&logo=Microsoft%20SQL%20Server)]()
+[![Sqllite](https://img.shields.io/badge/SQLite-black?style=for-the-badge&logo=SQLite)]()
+
+
+### Tools & Frameworks
+[![React](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react)]()
+[![Bootstrap](https://img.shields.io/badge/Bootstrap-black?style=for-the-badge&logo=Bootstrap)]()
+[![adobe illustrator](https://img.shields.io/badge/Adobe%20Illustrator-black?style=for-the-badge&logo=Adobe%20Illustrator)]()
+[![git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=Git)]()
+[![Qt](https://img.shields.io/badge/Qt-black?style=for-the-badge&logo=Qt)]()
+[![pycharm](https://img.shields.io/badge/PyCharm-black?style=for-the-badge&logo=PyCharm)]()
+[![vs code](https://img.shields.io/badge/Visual%20Studio%20Code-black?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=blue)]()
+
 
 ### ML/DL
-[![NumPy](https://img.shields.io/badge/numpy-black?style=for-the-badge&logo=numpy)](https://github.com/Mohamedelewa2810)
-### Technologies & Frameworks
-[![React](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react)](https://github.com/Mohamedelewa2810)
-[![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)](https://github.com/Mohamedelewa2810)
-[![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)](https://github.com/Mohamedelewa2810)
+[![NumPy](https://img.shields.io/badge/numpy-black?style=for-the-badge&logo=numpy)]()
+[![OpenCV](https://img.shields.io/badge/OpenCV-black?style=for-the-badge&logo=OpenCV)]()
+[![TensorFlow](https://img.shields.io/badge/TensorFlow-black?style=for-the-badge&logo=TensorFlow)]()
+
 
 ### OS
-[![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)](https://github.com/Mohamedelewa2810)
-[![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows)](https://github.com/Mohamedelewa2810)
+[![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)]()
+[![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows)]()
 
 <details>
 <p align="center">
