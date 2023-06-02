@@ -42,7 +42,7 @@
 [![git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=Git)]()
 [![Qt](https://img.shields.io/badge/Qt-black?style=for-the-badge&logo=Qt)]()
 [![pycharm](https://img.shields.io/badge/PyCharm-black?style=for-the-badge&logo=PyCharm)]()
-[![vs code](https://img.shields.io/badge/Visual%20Studio%20Code-black?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=blue)]()
+[![vs code](https://img.shields.io/badge/VS%20Code-black?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=blue)]()
 
 
 ### ML/DL
