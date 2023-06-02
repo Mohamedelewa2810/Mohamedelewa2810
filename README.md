@@ -12,6 +12,14 @@
     </a>   
 </p>
 
+### My areas of work
+<ul>
+  <li>AI Developer</li>
+  <li>Frontend Developer</li>
+  <li>Desktop Developer</li>
+  <li>Android Developer</li>
+</ul>
+
 ### Languages
 
 [![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python&logoColor=blue)]()
