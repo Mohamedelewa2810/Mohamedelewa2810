@@ -11,14 +11,18 @@
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
     </a>   
 </p>
+
 ### Languages
 
-[![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/Mohamedelewa2810)
-[![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)](https://github.com/Mohamedelewa2810)
-[![Java](https://img.shields.io/badge/java-black?style=for-the-badge&logo=openjdk)](https://github.com/Mohamedelewa2810)
-[![C++](https://img.shields.io/badge/c++-black?style=for-the-badge&logo=cplusplus)](https://github.com/Mohamedelewa2810)
-[![C](https://img.shields.io/badge/c-black?style=for-the-badge&logo=c)](https://github.com/Mohamedelewa2810)
-[![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql)](https://github.com/Mohamedelewa2810)
+[![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python&logoColor=blue)]()
+[![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=JavaScript)]()
+[![Html](https://img.shields.io/badge/Html-black?style=for-the-badge&logo=HTML5)]()
+[![Css](https://img.shields.io/badge/Css-black?style=for-the-badge&logo=CSS3)]()
+[![C#](https://img.shields.io/badge/C%23-black?style=for-the-badge&logo=C%20Sharp)]()
+[![C++](https://img.shields.io/badge/c++-black?style=for-the-badge&logo=cplusplus)]()
+[![C](https://img.shields.io/badge/C-black?style=for-the-badge&logo=C)]()
+[![Java](https://img.shields.io/badge/Java-black?style=for-the-badge&logo=openjdk)]()
+
 
 ### ML/DL
 [![NumPy](https://img.shields.io/badge/numpy-black?style=for-the-badge&logo=numpy)](https://github.com/Mohamedelewa2810)
