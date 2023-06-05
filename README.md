@@ -23,7 +23,7 @@
 ### Languages
 
 [![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python&logoColor=blue)]()
-[![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=JavaScript)]()
+<!--[![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=JavaScript)]() -->
 [![Html](https://img.shields.io/badge/Html-black?style=for-the-badge&logo=HTML5)]()
 [![Css](https://img.shields.io/badge/Css-black?style=for-the-badge&logo=CSS3)]()
 [![C#](https://img.shields.io/badge/C%23-black?style=for-the-badge&logo=C%20Sharp)]()
@@ -36,8 +36,8 @@
 
 
 ### Tools & Frameworks
-[![React](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react)]()
-[![Bootstrap](https://img.shields.io/badge/Bootstrap-black?style=for-the-badge&logo=Bootstrap)]()
+<!--[![React](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react)]()
+[![Bootstrap](https://img.shields.io/badge/Bootstrap-black?style=for-the-badge&logo=Bootstrap)]() -->
 [![adobe illustrator](https://img.shields.io/badge/Adobe%20Illustrator-black?style=for-the-badge&logo=Adobe%20Illustrator)]()
 [![git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=Git)]()
 [![Qt](https://img.shields.io/badge/Qt-black?style=for-the-badge&logo=Qt)]()
@@ -48,7 +48,7 @@
 ### ML/DL
 [![NumPy](https://img.shields.io/badge/numpy-black?style=for-the-badge&logo=numpy)]()
 [![OpenCV](https://img.shields.io/badge/OpenCV-black?style=for-the-badge&logo=OpenCV)]()
-[![TensorFlow](https://img.shields.io/badge/TensorFlow-black?style=for-the-badge&logo=TensorFlow)]()
+<!--[![TensorFlow](https://img.shields.io/badge/TensorFlow-black?style=for-the-badge&logo=TensorFlow)]()-->
 
 
 ### OS
