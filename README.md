@@ -35,7 +35,7 @@
 [![Sqllite](https://img.shields.io/badge/SQLite-black?style=for-the-badge&logo=SQLite)]()
 
 
-### Tools & Frameworks
+### Tools <!--& Frameworks-->
 <!--[![React](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react)]()
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-black?style=for-the-badge&logo=Bootstrap)]() -->
 [![adobe illustrator](https://img.shields.io/badge/Adobe%20Illustrator-black?style=for-the-badge&logo=Adobe%20Illustrator)]()
