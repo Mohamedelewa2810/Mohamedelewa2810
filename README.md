@@ -49,18 +49,6 @@
 [![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows)]()
 
 
-<p align="center">
-  <a href="https://github.com/Mohamedelewa2810">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mohamedelewa2810&theme=transparent" />
-  </a>
-  <a href="https://github.com/Mohamedelewa2810">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohamedelewa2810&hide_border=true&card_width=338&theme=transparent" />
-  </a>
-  <a href="https://github.com/Mohamedelewa2810">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Mohamedelewa2810&theme=transparent" />
-  </a>
-</p>
-
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
